@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about **Cybersecurity** and **Pente
 
 ## 🚀 About Me
 
-- 🔐 I'm a Student of **Cybersecurity** and **Pentest**.
+- 🔐 I'm a Student of **Cybersecurity**.
 - 📫 You can reach me at [contatofelipemdss@gmail.com](mailto:contatofelipemdss@gmail.com).
 
 
