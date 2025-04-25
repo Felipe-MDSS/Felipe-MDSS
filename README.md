@@ -10,19 +10,14 @@ Welcome to my GitHub profile! I'm passionate about **Cybersecurity**. This is wh
 
 
 
-## ✨ Know me more: my CV, articles, social medias, learn with my free course and more.  
-- 🌐 My website: [Felipe Martins](https://emailcarrer456.wixsite.com/felipe-martins)  
+## ✨ Know me more: .  
+- 🌐 My website: [Felipe Martins](https://)  
 
 
 
-## 📈 GitHub Stats
+## 🔐 Cybersecurity Projects
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-
-## 🔐 Ethical Hacking Projects
-
-Here are some of my public projects related to **ethical hacking** and **cybersecurity**:
+Here are some of my public projects related to **Cybersecurity**:
 - [Project 1: Loading...](https://github.com/Felipe-MDSS)
 
 Feel free to explore, contribute, or reach out if you'd like to collaborate!
